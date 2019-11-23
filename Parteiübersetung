@@ -1,0 +1,11 @@
+dict= {'BDP': 'PDB',
+ 'CVP': 'PDC',
+ 'EVP': 'PEV',
+ 'FDP': 'PLR',
+ 'GPS': 'PES',
+ 'GLP': 'PVL',
+ 'LEGA': 'LEGA',
+ 'MCG': 'MCG',
+ 'SVP': 'UDC',
+ 'SP': 'PSS',
+ 'PDA': 'PST'}

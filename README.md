@@ -1,21 +1,24 @@
-Federal Parliament External Entry Behaviour
+# Federal Parliament External Entry Behaviour
 
 HSLU MSc IDS AMS FS19:  Analytics and Modelling of Social Interactions
-Daniel Barco, Jonas Widmer, Tanja Schär
 
-Lucerne, 01.01.2019
+#Team
+- [Daniel Barco](https://github.com/danielbarco)
+- [Tanja Schär](https://github.com/maximumawesomeness)
+- [Jonas Widmer](https://github.com/jonwidi)
 
+#Date
+Lucerne, 01.01.2020
 
-
-Research Question
+#Research Question
 
 What’s the Swiss Parties relations from to external stakeholders regarding their entry possibilities to the Federal Parliament Building in Berne and can we cluster them to lobbies? 
 
 We’re going to analyse them per Year
 
-Process
+##Process
 
-Data Source
+##Data Source
 
 We have different sources for “Ständerat” and “Nationalrat” filed as PDFs with tables 
 
@@ -43,7 +46,7 @@ Januar 2016
 Januar 2018
 Oktober 2019
 
-Network Analysis 
+##Network Analysis 
 
 Undirected Weighted Network:
 nodes: parties and external organisations (like WWF, Bauernverband, and so on)

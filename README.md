@@ -18,6 +18,8 @@ We’re going to analyse them per Year
 
 ## Process
 
+API Key: "AIzaSyB9eAy53qW87NIQoKT1X1VZQ8asN6ojk3w"
+
 ## Data Source
 
 We have different sources for “Ständerat” and “Nationalrat” filed as PDFs with tables 

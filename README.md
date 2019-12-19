@@ -12,9 +12,7 @@ Lucerne, 01.01.2020
 
 ## Research Question
 
-What’s the Swiss Parties relations from to external stakeholders regarding their entry possibilities to the Federal Parliament Building in Berne and can we cluster them to lobbies? 
-
-We’re going to analyse them per Year
+What are the interactions between Swiss political fractions and  lobby groups with special access to the Swiss parliament from 2012 to 2019?
 
 ## Process
 

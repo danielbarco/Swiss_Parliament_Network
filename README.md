@@ -22,7 +22,7 @@ API Key: "AIzaSyB9eAy53qW87NIQoKT1X1VZQ8asN6ojk3w"
 
 We have different sources for “Ständerat” and “Nationalrat” filed as PDFs with tables 
 
-Dictionary Deutsche Namen Partei als FRanzsöische Partei
+Dictionary Deutsche Namen Partei als Franzsöische Partei
 
 Wahlen: 05.12.2011, 29.11.2015, Nov. 2019
 

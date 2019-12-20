@@ -16,9 +16,9 @@ What are the interactions between Swiss political fractions and  lobby groups wi
 
 ## Data Source
 
-We have different sources for “Ständerat” and “Nationalrat” filed as PDFs with tables 
+We retrieved the data by personal communication with the federal office combined with public available data on: https://www.parlament.ch/centers/documents/de/zutrittsberechtigte-nr.pdf
 
-Nationalrat:
+The data source includes PDFs with tables from the Swiss National parliament:
 
 Dezember 2012 <br /> 
 Januar 2014 → 2013 <br /> 
@@ -28,8 +28,13 @@ Januar 2016 <br />
 Januar 2018 <br /> 
 Oktober 2019 <br /> 
 
+The connections from organizations to lobbies have been made according to the API of lobbywatch.ch  
+
 ## Network Analysis 
 
 Undirected Weighted Network:
 nodes: parties and external organisations (like WWF, Bauernverband, and so on)
 edges: connection between parties and external organisations (weighted -> if you have for WWF 4 in-going edges from SP, the edge has to be thicker than if there is e.g. just 1 edge from FDP)
+
+## Presentation
+http://bit.ly/Swiss_Parliament_Network

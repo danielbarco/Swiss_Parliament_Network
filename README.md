@@ -36,7 +36,7 @@ Undirected Weighted Network:
 74 nodes: 7 parties and 67 external organisations 
 122 edges: connections (invited guests) between parties and external organisations
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/danielbarco/Swiss_Parliament_Network/blob/master/community.png)
 
 Community clustering into left, middle and right
 

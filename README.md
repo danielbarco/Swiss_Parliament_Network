@@ -20,7 +20,7 @@ We have different sources for “Ständerat” and “Nationalrat” filed as PD
 
 Nationalrat:
 
-Dezember 2012
+Dezember 2012 /n
 Januar 2014 → 2013
 Dezember 2014
 Dezember 2015

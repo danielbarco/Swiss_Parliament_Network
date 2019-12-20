@@ -8,23 +8,15 @@ HSLU MSc IDS AMS FS19:  Analytics and Modelling of Social Interactions
 - [Jonas Widmer](https://github.com/jonwidi)
 
 ## Date
-Lucerne, 01.01.2020
+Lucerne, 20.12.2019
 
 ## Research Question
 
 What are the interactions between Swiss political fractions and  lobby groups with special access to the Swiss parliament from 2012 to 2019?
 
-## Process
-
-API Key: "AIzaSyB9eAy53qW87NIQoKT1X1VZQ8asN6ojk3w"
-
 ## Data Source
 
 We have different sources for “Ständerat” and “Nationalrat” filed as PDFs with tables 
-
-Dictionary Deutsche Namen Partei als Franzsöische Partei
-
-Wahlen: 05.12.2011, 29.11.2015, Nov. 2019
 
 Nationalrat:
 

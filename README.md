@@ -26,16 +26,6 @@ Dictionary Deutsche Namen Partei als Franzsöische Partei
 
 Wahlen: 05.12.2011, 29.11.2015, Nov. 2019
 
-Ständerat: 
-Dezember 2012 → 2012
-Januar 2014 → 2013 
-Dezember 2014→ 2014
-Dezember 2015 → 2015
-Januar 2016 → 2016
-Januar 2018 → 2018
-Oktober 2019 → 2019 
-2017 is missing
-
 Nationalrat:
 
 Dezember 2012

@@ -41,7 +41,7 @@ Undirected Weighted Network:
 
 Community clustering into left, middle and right
 
-![alt text](https://github.com/danielbarco/Swiss_Parliament_Network/blob/master/community.png)
+![alt text](https://github.com/danielbarco/Swiss_Parliament_Network/blob/master/Overview.png)
 
 ## Presentation
 http://bit.ly/Swiss_Parliament_Network

@@ -20,13 +20,13 @@ We have different sources for “Ständerat” and “Nationalrat” filed as PD
 
 Nationalrat:
 
-Dezember 2012 /n
-Januar 2014 → 2013
-Dezember 2014
-Dezember 2015
-Januar 2016
-Januar 2018
-Oktober 2019
+Dezember 2012 <br /> 
+Januar 2014 → 2013 <br /> 
+Dezember 2014 <br /> 
+Dezember 2015 <br /> 
+Januar 2016 <br /> 
+Januar 2018 <br /> 
+Oktober 2019 <br /> 
 
 ## Network Analysis 
 
